@@ -7,7 +7,7 @@ describe('AppComponent', function () {
     var de;
     var comp;
     var fixture;
-    beforeEach(testing_1.async(function () {
+    beforeEach((0, testing_1.async)(function () {
         testing_1.TestBed.configureTestingModule({
             declarations: [app_component_1.AppComponent]
         })
